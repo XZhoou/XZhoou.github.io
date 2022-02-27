@@ -3,6 +3,7 @@
     display: table
 }
 
+/* 4d4d4d : 292F36 */
 .clearfix:after {
     clear: both
 }
@@ -814,6 +815,8 @@ body {
 }
 
 .left-col {
+    /* background: #033F63; */
+    /* 左侧栏下部的颜色，本身为白色 */
     background: #fff;
     width: 300px;
     position: fixed;
@@ -824,6 +827,7 @@ body {
 }
 
 .left-col .overlay {
+    /* background: #033F63; */
     width: 100%;
     height: 180px;
     position: absolute
@@ -836,6 +840,9 @@ body {
 }
 
 .left-col #header {
+    /* 头像框周围的举行 */
+    /* background: #033F63; */
+
     width: 100%;
     height: 300px;
     position: relative;
@@ -843,7 +850,8 @@ body {
 }
 
 .left-col #header a {
-    color: #696969
+    /* color: #696969 */
+    color: #033F63
 }
 
 .left-col #header a:hover {
@@ -1562,7 +1570,7 @@ pre .css~* .id, pre .id {
 #page-nav .page-number {
     width: 20px;
     height: 25px;
-    background: #4d4d4d;
+    background: #292F36;
     display: inline-block;
     color: #fff;
     line-height: 25px;
@@ -1585,7 +1593,7 @@ pre .css~* .id, pre .id {
 }
 
 #page-nav .extend {
-    color: #4d4d4d;
+    color: #292F36;
     margin: 0 27px;
     opacity: 1
 }
@@ -2054,7 +2062,7 @@ pre .css~* .id, pre .id {
 }
 
 .article-header {
-    border-left: 5px solid #4d4d4d;
+    border-left: 5px solid #292F36;
     padding: 30px 0 15px 25px;
     padding-left: 7.6923%
 }
@@ -2086,7 +2094,7 @@ pre .css~* .id, pre .id {
 }
 
 .article-more-link a {
-    background: #4d4d4d;
+    background: #292F36;
     color: #fff;
     font-size: 12px;
     padding: 5px 8px;
@@ -2360,7 +2368,7 @@ pre .css~* .id, pre .id {
 }
 
 #article-nav .article-nav-link-wrap:hover .article-nav-title, #article-nav .article-nav-link-wrap:hover i {
-    color: #4d4d4d
+    color: #292F36
 }
 
 #article-nav #article-nav-older {
@@ -2429,7 +2437,7 @@ pre .css~* .id, pre .id {
 .share-icons a.share-outer {
     border: none;
     color: #fff;
-    background: #4d4d4d;
+    background: #292F36;
     text-shadow: none
 }
 
@@ -2533,6 +2541,7 @@ pre .css~* .id, pre .id {
 }
 
 .page-reward .reward-box {
+    /* background: #f44336; */
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -2549,7 +2558,7 @@ font-family
     color: #fff;
     font-weight: 700;
     text-shadow: 1px 1px 1px #45b9e0
-    /* text-shadow: 1px 1px 1px #4767d1 */
+        /* text-shadow: 1px 1px 1px #4767d1 */
 
 }
 
@@ -2564,7 +2573,7 @@ font-family
 
     font-size: 16px;
     display: block;
-    color: #4d4d4d;
+    color: #292F36;
     margin: 20px 0 0
 }
 
@@ -2602,6 +2611,8 @@ font-family
 
 .jump-container:hover .icon-back {
     background: rgba(36, 193, 246, .9)
+        /* background: rgba(71, 80, 83, 0.95) */
+
 }
 
 .jump-container, .toc-container {
@@ -2860,7 +2871,7 @@ font-family
     line-height: 1.4;
     text-align: center;
     font-weight: 400;
-    color: #4d4d4d;
+    color: #292F36;
     background: transparent;
     opacity: 0;
     margin: 0 0 -10px -185px;
@@ -2883,7 +2894,7 @@ font-family
 }
 
 .tooltip-top .tooltip-text {
-    border-bottom: 10px solid #4d4d4d;
+    border-bottom: 10px solid #292F36;
     overflow: hidden;
     -webkit-transform: scaleX(0);
     transform: scaleX(0);
@@ -2899,7 +2910,10 @@ font-family
 }
 
 .tooltip-top .tooltip-inner {
-    background: rgba(36, 193, 246, .9);
+    /* 设置打赏界面的背景色 */
+    background: rgba(122, 138, 143, 0.98);
+    /* background: rgba(36, 193, 246, .9); */
+
     padding: 40px;
     -webkit-transform: translate3d(0, 100%, 0);
     transform: translate3d(0, 100%, 0);
@@ -2924,7 +2938,7 @@ font-family
     position: absolute;
     pointer-events: none;
     border-color: transparent;
-    border-top-color: #4d4d4d;
+    border-top-color: #292F36;
     border-width: 10px;
     margin-left: -10px
 }
@@ -3304,7 +3318,7 @@ font-family
         position: absolute;
         width: 100%;
         z-index: 2;
-        background: #4d4d4d
+        background: #292F36
     }
 
     #mobile-nav #header {
@@ -4070,4 +4084,97 @@ a.pswp__share--download:hover {
 .pswp__error-msg a {
     color: #ccc;
     text-decoration: underline
+}
+
+
+
+category-all-page {
+    margin: 30px 40px 30px 40px;
+    position: relative;
+    min-height: 70vh;
+}
+
+.category-all-page h2 {
+    margin: 20px 10;
+}
+
+.category-all-page .category-all-title {
+    text-align: center;
+}
+
+.category-all-page .category-all {
+    margin-top: 20px;
+}
+
+.category-all-page .category-list {
+    margin: 15;
+    padding: 0;
+    list-style: none;
+}
+
+.category-all-page .category-list-item-list-item {
+    margin: 25px 25px;
+}
+
+.category-all-page .category-list-item-list-count {
+    color: $grey;
+}
+
+.category-all-page .category-list-item-list-count:before {
+    display: inline;
+    content: " (";
+}
+
+.category-all-page .category-list-item-list-count:after {
+    display: inline;
+    content: ") ";
+}
+
+.category-all-page .category-list-item {
+    margin: 25px 25px;
+}
+
+.category-all-page .category-list-count {
+    color: $grey;
+}
+
+.category-all-page .category-list-count:before {
+    display: inline;
+    content: " (";
+}
+
+.category-all-page .category-list-count:after {
+    display: inline;
+    content: ") ";
+}
+
+.category-all-page .category-list-child {
+    padding-left: 10px;
+}
+
+
+
+
+.archives-wrap {
+    position: relative;
+    margin: 0 30px;
+    padding-right: 60px;
+    border-bottom: 1px solid #eee;
+    /* background:#fff */
+    background: rgba(255, 255, 255, .5);
+}
+
+.article-meta time {
+    /* color:#aaa */
+    color: #2f2d2a;
+}
+
+.archives .archive-article-title {
+    font-size: 20px;
+    /* color:#333; */
+    transition: color .3s
+}
+
+.archives .archive-article-title:hover {
+    /* color: #657b83 */
 }
