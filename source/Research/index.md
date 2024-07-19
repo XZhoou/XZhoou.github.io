@@ -10,4 +10,3 @@ My research interests include:
 - *Pedestrian Dynamics*
 - *Travel Demand Management (TDM) strategy*
 - *Optimization in Transportation Field*
-
