@@ -13,7 +13,7 @@ I love playing football and e-sports including *League of Legends* and *CS:GO*.
 
 
 
-My girlfriend is She-Xin Zhao, who is studying for a master's degree in *University of Electronic Science and Technology of China*.
+My girlfriend is Shi-Xin Zhao, who is studying for a master's degree in *University of Electronic Science and Technology of China*.
 
 <center class="half">    <img src="https://pics-1309385371.cos.ap-beijing.myqcloud.com//typora-mac/IMG_2148.png" width="300"/>    <img src="https://pics-1309385371.cos.ap-beijing.myqcloud.com//typora-mac/IMG_1415.png" width="300"/> </center>
 
