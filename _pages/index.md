@@ -2,8 +2,7 @@
 permalink: /about/
 title: "About Me"
 author_profile: true
-redirect_from: 
-  - /about/
+
 ---
 
 I was born in Zhengzhou, Henan Province, and completed my bachelor in Information Management & Information System in 2023 at School of Economics and Management, Beihang University in China.
