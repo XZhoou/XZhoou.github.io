@@ -1,7 +1,9 @@
 ---
-title: Research
-date: 2024-04-12 17:55:02
-academia: true
+permalink: /
+title: "Research"
+author_profile: true
+redirect_from: 
+  - /research/
 ---
 
 My research interests include:

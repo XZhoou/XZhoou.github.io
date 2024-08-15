@@ -1,7 +1,9 @@
 ---
-title: Publications
-date: 2024-04-12 17:51:23
-academia: true
+permalink: /
+title: "Publications"
+author_profile: true
+redirect_from: 
+  - /publications/
 ---
 
 ## Articles
