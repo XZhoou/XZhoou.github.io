@@ -15,7 +15,7 @@ description              : &description ""
 url                      : https://XZhoou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
-CV                       : https://XZhoou.github.io/files/CV.pdf
+# CV                       : https://XZhoou.github.io/files/CV.pdf
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student at Beihang University, China."
   location         : "Beijing, China"
-  employer         : "Beihang University"
+  # employer         : "Beihang University"
   uri              : # URL
   email            : "sunqihang@buaa.edu.cn" 
 
