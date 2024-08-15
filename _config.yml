@@ -12,7 +12,7 @@ title                    : "Qi-Hang Sun / XZhoou's Homepage"
 title_separator          : "-"
 name                     : &name "Qi-Hang Sun"
 description              : &description ""
-url                      : https://XZhoou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://xzhoou.top # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 # CV                       : https://XZhoou.github.io/files/CV.pdf
@@ -181,6 +181,7 @@ exclude:
   - README
   - tmp
   - vendor
+  - "sitemap.xml"
 keep_files:
   - .git
   - .svn
