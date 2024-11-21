@@ -5,9 +5,9 @@ author_profile: true
 
 ---
 
-I was born in Zhengzhou, Henan Province, and completed my bachelor in Information Management & Information System in 2023 at School of Economics and Management, Beihang University in China.
+I was born in Zhengzhou, Henan Province, and I completed my bachelor in Information Management & Information System in 2023 at School of Economics and Management, Beihang University in China.
 
-I love playing football and e-sports including *League of Legends* and *CS:GO*.
+I love playing football, badminton, and e-sports including *League of Legends* and *CS:GO*.
 
 <center><img src="https://pics-1309385371.cos.ap-beijing.myqcloud.com//typora-mac/89d2820a4068a99b3db30d6affba6069.JPG" width="500"/></center>
 
