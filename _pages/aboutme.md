@@ -9,13 +9,13 @@ I was born in Zhengzhou, Henan Province, and I completed my bachelor in Informat
 
 I love playing football, badminton, and e-sports including *League of Legends* and *CS:GO*.
 
-<center><img src="https://pics-1309385371.cos.ap-beijing.myqcloud.com//typora-mac/89d2820a4068a99b3db30d6affba6069.JPG" width="500"/></center>
+<center><img src="https://pics-1309385371.cos.ap-beijing.myqcloud.com/typora-win/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241205161731.jpg" width="500"/></center>
 
 
 
 My girlfriend is Shi-Xin Zhao, who is studying for a master's degree in *University of Electronic Science and Technology of China*.
 
-<center class="half">    <img src="https://pics-1309385371.cos.ap-beijing.myqcloud.com//typora-mac/IMG_2148.png" width="300"/>    <img src="https://pics-1309385371.cos.ap-beijing.myqcloud.com//typora-mac/IMG_1415.png" width="300"/> </center>
+<center class="half">    <img src="https://pics-1309385371.cos.ap-beijing.myqcloud.com/typora-win/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241205161411.jpg" width="300"/>    <img src="https://pics-1309385371.cos.ap-beijing.myqcloud.com/typora-win/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241205161423.jpg" width="300"/> </center>
 
 I have a cute British shorthair cat named *Mimi*.
 
