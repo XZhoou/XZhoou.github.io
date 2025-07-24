@@ -14,6 +14,8 @@ author_profile: true
 
 I am going to give an oral presentation at the sub-session of CTS 2025, which would be held in Wuhan from July 25 to 27. 
 
+Sub-session: Transportation Economics & Pricing (I)
+
 See you soon!
 
 ---
