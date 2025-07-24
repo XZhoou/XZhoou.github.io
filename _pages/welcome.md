@@ -5,8 +5,6 @@ author_profile: true
 
 ---
 
-## About Me
-
 Welcome to my Website! 
 
 My name is Qi-Hang Sun, and I am a Ph.D. candidate at Beihang University under the supervision of Prof. [Ren-Yong Guo](https://sem.buaa.edu.cn/info/1094/10798.htm). 

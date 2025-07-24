@@ -6,10 +6,6 @@ author_profile: true
 
 {% include base_path %}
 
-## Talks
-
----
-
 **Reservation scheme for congestion management during morning commute: Considering noncompliance**
 
 I am going to give an oral presentation at the sub-session of CTS 2025, which would be held in Wuhan from July 25 to 27. 
