@@ -5,6 +5,8 @@ author_profile: true
 
 ---
 
+Doctoral Thesis Title: *Pending*
+
 My research interests include:
 
 - *Economics of Transportation*
