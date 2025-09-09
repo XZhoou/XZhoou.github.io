@@ -8,11 +8,9 @@ author_profile: true
 
 **Reservation scheme for congestion management during morning commute: Considering noncompliance**
 
-I am going to give an oral presentation at the sub-session of CTS 2025, which would be held in Wuhan from July 25 to 27. 
+*Jul. 2025, Wuhan, Hubei Province, China*
 
-Sub-session: Transportation Economics & Pricing (I)
-
-See you soon!
+Conference Presentation @ The 16th International Workshop on Computational Transportation Science (CTS 2025)
 
 ---
 
