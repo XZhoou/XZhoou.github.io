@@ -5,7 +5,7 @@ author_profile: true
 
 ---
 
-Doctoral Thesis Title: *Pending*
+Doctoral Thesis Title: *Design and operational optimization of reservation schemes for congestion management during morning commute*
 
 My research interests include:
 
