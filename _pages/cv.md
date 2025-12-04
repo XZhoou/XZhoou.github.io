@@ -18,10 +18,14 @@ Education
 ## Internship
 
 - Undergraduate Research Assistant @ Ministry of Industry and Information Technology, China, 2022.03 - 2022.09
+- Student Assistant @ International Relations Department, Beihang University, 2025.09 - Present
 
 ## Awards & Scholarships
 
 - Visiting Ph.D. Scholarship, China Scholarship Council, 2025
+- The First Prize Academic Scholarship, Beihang University, 2025
+- Excellent Student Cadre, Beihang University, 2025
+- Excellent League Member, Beihang University, 2025
 - The First Prize Academic Scholarship, Beihang University, 2024
 - Merit Student, Beihang University, 2022, 2024
 - Excellent League Member, Beihang University, 2024

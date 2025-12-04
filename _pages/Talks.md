@@ -6,6 +6,14 @@ author_profile: true
 
 {% include base_path %}
 
+**Flexible reservation scheme for urban transportation network management in a multimodal context**
+
+*Nov. 2025, Guangzhou, Guangdong Province, China*
+
+Conference Presentation @ The 7th International Symposium on Multimodal Transportation (ISMT 2025) [Slides](https://XZhoou.github.io/files/Flexible reservation scheme for urban transportation network management in a multimodal context.pdf)
+
+---
+
 **Reservation scheme for congestion management during morning commute: Considering noncompliance**
 
 *Jul. 2025, Wuhan, Hubei Province, China*
@@ -16,7 +24,7 @@ Conference Presentation @ The 16th International Workshop on Computational Trans
 
 **Morning Peak Reservation Scheme Incorporating Noncompliance Behaviors: Modeling and Analysis**
 
-*Aug. 2024, Yichang, Hubei Province, China.*
+*Aug. 2024, Yichang, Hubei Province, China*
 
 Conference presentation @ The 5th Frontier Symposium on Traffic Behavior and Transportation Science (TBTS 2024) [[Slides](https://XZhoou.github.io/files/Morning Peak Reservation Scheme Incorporating Noncompliance Behaviors_Modeling and Analysis.pdf)]
 
