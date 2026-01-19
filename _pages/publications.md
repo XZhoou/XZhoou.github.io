@@ -19,3 +19,5 @@ author_profile: true
 
 - **Flexible Partial Reservation Scheme for Morning Commute Congestion Management Considering Noncompliance.** Qi-Hang Sun, Ren-Yong Guo
 - **Reservation scheme for congestion management during morning commute: Considering noncompliance.** Qi-Hang Sun, Ren-Yong Guo
+- **Flexible reservation scheme for urban transportation network management in a multimodal context.** Qi-Hang Sun, Ren-Yong Guo
+- **Intentional noncompliance in reservation scheme: Modeling and analyses.** Qi-Hang Sun, Ren-Yong Guo

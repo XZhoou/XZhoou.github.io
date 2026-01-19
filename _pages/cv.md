@@ -18,7 +18,7 @@ Education
 ## Internship
 
 - Undergraduate Research Assistant @ Ministry of Industry and Information Technology, China, 2022.03 - 2022.09
-- Student Assistant @ International Relations Department, Beihang University, 2025.09 - Present
+- Student Assistant @ International Relations Department, Beihang University, 2025.09 - 2026.01
 
 ## Awards & Scholarships
 
