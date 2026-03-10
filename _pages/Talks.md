@@ -6,6 +6,12 @@ author_profile: true
 
 {% include base_path %}
 
+**Efficiency of Partial Reservations in the Morning Commute under Noncompliance**
+
+*Apr. 2026, Online*
+
+Seminar Presentation @ Future Cities Lab (Centrale Pékin, Beihang University Beijing and Laboratoire Génie Industriel, CentraleSupélec, Unviersité Paris-Saclay). - Seminar Series 2025/2026 
+
 **Flexible reservation scheme for urban transportation network management in a multimodal context**
 
 *Nov. 2025, Guangzhou, Guangdong Province, China*
