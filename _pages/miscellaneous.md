@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /miscellaneous/
-title: miscellaneous
+title: Miscellaneous
 nav: true
 nav_order: 6
 ---

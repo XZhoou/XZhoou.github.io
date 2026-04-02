@@ -1,12 +1,12 @@
 ---
 layout: page
 permalink: /talks/
-title: talks
+title: Talks
 nav: true
 nav_order: 4
 ---
 
-**Efficiency of Partial Reservations in the Morning Commute under Noncompliance**
+**Reservation scheme for congestion management during morning commute: Considering noncompliance**
 
 *Apr. 2026, Online*
 
@@ -18,7 +18,7 @@ Seminar Presentation @ Future Cities Lab (Centrale Pékin, Beihang University Be
 
 *Nov. 2025, Guangzhou, Guangdong Province, China*
 
-Conference Presentation @ The 7th International Symposium on Multimodal Transportation (ISMT 2025) [Slides](/assets/pdf/Flexible_reservation_scheme_for_urban_transportation_network_management_in_a_multimodal_context.pdf)
+Conference Presentation @ The 7th International Symposium on Multimodal Transportation (ISMT 2025) [[Slides](/assets/pdf/Flexible_reservation_scheme_for_urban_transportation_network_management_in_a_multimodal_context.pdf)]
 
 ---
 
