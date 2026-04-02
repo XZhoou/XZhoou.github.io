@@ -1,0 +1,34 @@
+{% if site.analytics.google.id %}
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.analytics.google.id }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag("js", new Date());
+    gtag("config", "{{ site.analytics.google.id }}");
+  </script>
+{% endif %}
+
+{% if site.analytics.pirsch.id %}
+  <!-- Pirsch Analytics -->
+  <script defer type="text/javascript" src="https://api.pirsch.io/pirsch.js" id="pirschjs" data-code="{{ site.analytics.pirsch.id }}"></script>
+{% endif %}
+
+{% if site.analytics.cronitor.id %}
+  <script async src="https://rum.cronitor.io/script.js"></script>
+  <script>
+    window.cronitor =
+      window.cronitor ||
+      function () {
+        (window.cronitor.q = window.cronitor.q || []).push(arguments);
+      };
+    cronitor("config", { clientKey: "{{ site.analytics.cronitor.id }}" });
+  </script>
+{% endif %}
+
+{% if site.analytics.clicky.id %}
+  <!-- Clicky Analytics -->
+  <script async data-id="{{ site.analytics.clicky.id }}" src="//static.getclicky.com/js"></script>
+{% endif %}
