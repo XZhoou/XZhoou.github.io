@@ -1,22 +1,24 @@
 ---
+layout: page
 permalink: /talks/
-title: "Talks"
-author_profile: true
+title: talks
+nav: true
+nav_order: 4
 ---
-
-{% include base_path %}
 
 **Efficiency of Partial Reservations in the Morning Commute under Noncompliance**
 
 *Apr. 2026, Online*
 
-Seminar Presentation @ Future Cities Lab (Centrale Pékin, Beihang University Beijing and Laboratoire Génie Industriel, CentraleSupélec, Unviersité Paris-Saclay). - Seminar Series 2025/2026 
+Seminar Presentation @ Future Cities Lab (Centrale Pékin, Beihang University Beijing and Laboratoire Génie Industriel, CentraleSupélec, Unviersité Paris-Saclay). - Seminar Series 2025/2026
+
+---
 
 **Flexible reservation scheme for urban transportation network management in a multimodal context**
 
 *Nov. 2025, Guangzhou, Guangdong Province, China*
 
-Conference Presentation @ The 7th International Symposium on Multimodal Transportation (ISMT 2025) [Slides](https://XZhoou.github.io/files/Flexible reservation scheme for urban transportation network management in a multimodal context.pdf)
+Conference Presentation @ The 7th International Symposium on Multimodal Transportation (ISMT 2025) [Slides](/assets/pdf/Flexible_reservation_scheme_for_urban_transportation_network_management_in_a_multimodal_context.pdf)
 
 ---
 
@@ -32,7 +34,7 @@ Conference Presentation @ The 16th International Workshop on Computational Trans
 
 *Aug. 2024, Yichang, Hubei Province, China*
 
-Conference presentation @ The 5th Frontier Symposium on Traffic Behavior and Transportation Science (TBTS 2024) [[Slides](https://XZhoou.github.io/files/Morning Peak Reservation Scheme Incorporating Noncompliance Behaviors_Modeling and Analysis.pdf)]
+Conference presentation @ The 5th Frontier Symposium on Traffic Behavior and Transportation Science (TBTS 2024) [[Slides](/assets/pdf/Morning_Peak_Reservation_Scheme_Incorporating_Noncompliance_Behaviors_Modeling_and_Analysis.pdf)]
 
 <center><img src="https://pics-1309385371.cos.ap-beijing.myqcloud.com/typora-win/IMG_3455.JPG" width="800"/></center>
 
