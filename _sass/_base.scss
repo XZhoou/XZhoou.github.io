@@ -870,6 +870,13 @@ html.transition *:after {
 
 // Extra Markdown style (post Customization)
 .post {
+  // Justify text for better readability
+  .clearfix,
+  article > p,
+  article .page-content > p {
+    text-align: justify;
+  }
+
   .post-meta {
     color: var(--global-text-color-light);
     font-size: 0.875rem;
