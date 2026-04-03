@@ -2,8 +2,7 @@
 setlocal
 
 :: Get current date and time for the commit message in YYYY-MM-DD HH:MM:SS format
-for /f "tokens=2 delims==" %%I in ('wmic os get localdatetime /value') do set dt=%%I
-set datetime=%dt:~0,4%-%dt:~4,2%-%dt:~6,2% %dt:~8,2%:%dt:~10,2%:%dt:~12,2%
+for /f "delims=" %%I in ('powershell -NoProfile -Command "Get-Date -Format \"yyyy-MM-dd HH:mm:ss\""') do set datetime=%%I
 
 echo Updating site at %datetime%...
 
