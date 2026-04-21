@@ -10,7 +10,7 @@ nav_order: 4
 
 *Apr. 2026, Online*
 
-Seminar Presentation @ Future Cities Lab (Centrale Pékin, Beihang University Beijing and Laboratoire Génie Industriel, CentraleSupélec, Unviersité Paris-Saclay). - Seminar Series 2025/2026
+Seminar Presentation @ Future Cities Lab (Centrale Pékin, Beihang University Beijing and Laboratoire Génie Industriel, CentraleSupélec, Unviersité Paris-Saclay) - Seminar Series 2025/2026
 
 ---
 
