@@ -127,10 +127,10 @@ pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
 # Flag Counter visitor country analytics (100% free, see https://flagcounter.com)
 flagcounter:
   enabled: true
-  id: AQf
-  host: s01
+  id: FfAw
+  host: s05
   custom_code: |
-    <a href="https://s01.flagcounter.com/more/AQf"><img src="https://s01.flagcounter.com/count2/AQf/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+    <a href="http://s05.flagcounter.com/more/FfAw"><img src="https://s05.flagcounter.com/count2/FfAw/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
 google_site_verification: # your google-site-verification ID (Google Search Console)
