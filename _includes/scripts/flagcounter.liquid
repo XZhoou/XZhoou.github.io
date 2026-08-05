@@ -1,0 +1,12 @@
+{% if site.flagcounter.enabled %}
+  <div class="flagcounter-container mt-2 text-center" style="margin: 10px auto 0 auto;">
+    {% if site.flagcounter.custom_code %}
+      {{ site.flagcounter.custom_code }}
+    {% elsif site.flagcounter.id %}
+      {% assign host = site.flagcounter.host | default: "s01" %}
+      <a href="https://{{ host }}.flagcounter.com/more/{{ site.flagcounter.id }}" target="_blank" rel="noopener noreferrer">
+        <img src="https://{{ host }}.flagcounter.com/count2/{{ site.flagcounter.id }}/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0">
+      </a>
+    {% endif %}
+  </div>
+{% endif %}

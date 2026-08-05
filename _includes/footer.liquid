@@ -11,6 +11,7 @@
       {% if site.last_updated %}
         Last updated: {{ 'now' | date: '%B %d, %Y' }}.
       {% endif %}
+      {% include scripts/flagcounter.liquid %}
     </div>
   </footer>
 {% else %}
@@ -30,6 +31,7 @@
       {% if site.last_updated %}
         Last updated: {{ 'now' | date: '%B %d, %Y' }}.
       {% endif %}
+      {% include scripts/flagcounter.liquid %}
     </div>
   </footer>
 {% endif %}
