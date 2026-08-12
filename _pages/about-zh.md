@@ -2,7 +2,7 @@
 layout: page
 permalink: /about-zh/
 title: 中文介绍(Chinese)
-nav: true
+nav: false
 nav_order: 2
 ---
 
