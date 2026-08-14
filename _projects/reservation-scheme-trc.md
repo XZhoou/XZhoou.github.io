@@ -2,6 +2,7 @@
 layout: page
 title: Reservation Scheme for Congestion Management
 description: Design and operational optimization of reservation schemes to manage morning-commute congestion, accounting for travelers' noncompliance behavior.
+img: assets/img/reservation_fig6.png
 importance: 1
 category: research
 ---
@@ -11,6 +12,14 @@ category: research
 *Sun, Qi-Hang and Guo, Ren-Yong*, **Transportation Research Part C: Emerging Technologies**, 2026 (In press).
 
 This study investigates the design of reservation schemes for morning-commute congestion management when travelers may not comply with their assigned departure times. We characterize the equilibrium under noncompliance and propose scheme designs that restore efficiency.
+
+{% include figure.liquid loading="eager" path="assets/img/reservation_fig1.png" class="img-fluid rounded z-depth-1" caption="Figure 1" %}
+
+{% include figure.liquid loading="eager" path="assets/img/reservation_fig2.png" class="img-fluid rounded z-depth-1" caption="Figure 2" %}
+
+{% include figure.liquid loading="eager" path="assets/img/reservation_fig6.png" class="img-fluid rounded z-depth-1" caption="Figure 6" %}
+
+{% include figure.liquid loading="eager" path="assets/img/reservation_fig7.png" class="img-fluid rounded z-depth-1" caption="Figure 7" %}
 
 ## Resources
 
