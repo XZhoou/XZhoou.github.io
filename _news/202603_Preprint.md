@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-🎉 The preprint version of "Reservation scheme for congestion management during morning commute" is available on SSRN [[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6471165)]!
+🎉 The preprint version of "Reservation scheme for congestion management during morning commute" is available on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6471165)!
 
