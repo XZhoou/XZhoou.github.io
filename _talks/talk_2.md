@@ -1,6 +1,7 @@
 ---
 title: Flexible reservation scheme for urban transportation network management in a multimodal context
 date: 2025-11-15
+layout: talk
 type: Conference Presentation
 venue: The 7th International Symposium on Multimodal Transportation (ISMT 2025)
 location: Guangzhou, Guangdong Province, China
