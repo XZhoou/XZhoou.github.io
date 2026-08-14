@@ -2,7 +2,7 @@
 layout: page
 permalink: /miscellaneous/
 title: Miscellaneous
-nav: true
+nav: false
 nav_order: 6
 ---
 I was born in Gongyi, Henan Province. I graduated from Zhengzhou Foreign Language School (ZZFLS) in 2019.

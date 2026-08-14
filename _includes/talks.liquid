@@ -1,0 +1,23 @@
+<div class="talks">
+  {% if site.talks != blank %}
+    {% assign talks = site.talks | sort: 'date' | reverse %}
+    {% for talk in talks %}
+      <div class="talk-item">
+        <h4><a href="{{ talk.url | relative_url }}">{{ talk.title }}</a></h4>
+        <p>
+          <em>{{ talk.date | date: '%b. %Y' }}{% if talk.location %}, {{ talk.location }}{% endif %}</em><br>
+          {{ talk.type }} @ {{ talk.venue }}
+          {% if talk.slides %} [[Slides]({{ talk.slides | relative_url }})]{% endif %}
+        </p>
+        {% if talk.image %}
+          <center><img src="{{ talk.image }}" alt="{{ talk.title }}" width="800"/></center>
+        {% endif %}
+      </div>
+      {% unless forloop.last %}
+        <hr>
+      {% endunless %}
+    {% endfor %}
+  {% else %}
+    <p>No talks so far...</p>
+  {% endif %}
+</div>
