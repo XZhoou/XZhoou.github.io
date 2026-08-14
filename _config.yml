@@ -201,7 +201,7 @@ collections:
     permalink: /:collection/:title/
   talks:
     defaults:
-      layout: page
+      layout: talk
     output: true
     permalink: /:collection/:title/
 
