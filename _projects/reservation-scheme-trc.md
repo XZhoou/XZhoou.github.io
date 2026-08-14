@@ -11,7 +11,7 @@ category: research
 
 *Sun, Qi-Hang and Guo, Ren-Yong*, **Transportation Research Part C: Emerging Technologies**, 2026 (In press).
 
-This study investigates the design of reservation schemes for morning-commute congestion management when travelers may not comply with their assigned departure times. We characterize the equilibrium under noncompliance and propose scheme designs that restore efficiency.
+This study investigates the design of reservation schemes for morning-commute congestion management when commuters may not comply with their reserved time intervals. We characterize the equilibrium under noncompliance and propose scheme designs that restore efficiency.
 
 {% include figure.liquid loading="eager" path="assets/img/reservation_fig1.png" class="img-fluid rounded z-depth-1" %}
 
