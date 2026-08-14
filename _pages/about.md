@@ -25,7 +25,7 @@ I graduated from Beihang University in 2023 with a Bachelor's degree in Manageme
 - *Pedestrian Dynamics*
 - *Travel Demand Management (TDM) strategy*
 - *Optimization in Transportation Field*
-- *Low-altitude urban logistics*
+- *Low-Altitude Urban Logistics*
 
 My current research mainly focuses on modeling and analyzing reservation-based travel demand management (TDM) strategies, incorporating commuters' noncompliance behavior, exploring the resulting new equilibrium states and long-term interaction between system operators and strategic participants. In addition, I’m also highly interested in mechanism design for congestion management. I hope to explore more possibilities in this area in my future research.
 
