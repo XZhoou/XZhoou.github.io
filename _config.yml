@@ -200,6 +200,8 @@ collections:
     output: true
     permalink: /:collection/:title/
   talks:
+    defaults:
+      layout: page
     output: true
     permalink: /:collection/:title/
 

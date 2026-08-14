@@ -7,7 +7,7 @@
         <p>
           <em>{{ talk.date | date: '%b. %Y' }}{% if talk.location %}, {{ talk.location }}{% endif %}</em><br>
           {{ talk.type }} @ {{ talk.venue }}
-          {% if talk.slides %} [[Slides]({{ talk.slides | relative_url }})]{% endif %}
+          {% if talk.slides %}<a href="{{ talk.slides | relative_url }}">[Slides]</a>{% endif %}
         </p>
         {% if talk.image %}
           <center><img src="{{ talk.image }}" alt="{{ talk.title }}" width="800"/></center>

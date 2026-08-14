@@ -1,7 +1,7 @@
 ---
 title: Morning Peak Reservation Scheme Incorporating Noncompliance Behaviors: Modeling and Analysis
 date: 2024-08-15
-type: Conference
+type: Conference presentation
 venue: The 5th Frontier Symposium on Traffic Behavior and Transportation Science (TBTS 2024)
 location: Yichang, Hubei Province, China
 slides: /assets/pdf/Morning_Peak_Reservation_Scheme_Incorporating_Noncompliance_Behaviors_Modeling_and_Analysis.pdf
