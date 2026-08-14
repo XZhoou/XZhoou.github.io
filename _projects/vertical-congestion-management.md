@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Drone elevator coordination: Passenger and freight separation for vertical congestion management
-description: Drone delivery combined with cargo elevator for three-dimensional logistics, separating passenger and parcel flows to alleviate vertical congestion in high-rise buildings.
+title: Drone elevator coordination scheme
+description: Drone delivery combined with cargo elevator for three-dimensional logistics, separating passenger and parcel flows to alleviate vertical congestion.
 img: assets/img/vertical_transportation_illustration.jpg
 importance: 2
 category: research
