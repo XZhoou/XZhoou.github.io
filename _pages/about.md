@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-My name is Qi-Hang Sun, and I am a Ph.D. candidate at [Beihang University](https://www.buaa.edu.cn/) under the supervision of Prof. [Ren-Yong Guo](https://sem.buaa.edu.cn/info/1363/16307.htm). I am currently visiting the research group of Prof. Dr. [Tobias Harks](https://www.fim.uni-passau.de/en/mathopt) at University of Passau.
+My name is Qi-Hang Sun, and I am a Ph.D. candidate at [Beihang University](https://www.buaa.edu.cn/) under the supervision of Prof. [Ren-Yong Guo](https://sem.buaa.edu.cn/info/1363/16307.htm). I am currently visiting the research group of Prof. [Tobias Harks](https://www.fim.uni-passau.de/en/mathopt) at University of Passau.
 
 I graduated from Beihang University in 2023 with a Bachelor's degree in Management (Information Management and Information System) and a minor Bachelor's degree in Engineering (Biomedical Engineering).
 
