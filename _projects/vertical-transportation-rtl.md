@@ -7,15 +7,15 @@ importance: 2
 category: research
 ---
 
-## Passenger and freight separation with a rooftop transfer locker: Hybrid cargo-elevator operations in high-rise buildings
+## Passenger and freight separation for vertical congestion management in high-rise buildings: A rooftop drone handoff and cargo-elevator scheme
 
 *Sun, Qi-Hang and Guo, Ren-Yong and Zhao, Shixin*.
 
-High-rise buildings experience vertical congestion when passengers and parcel couriers compete for limited elevator capacity. This study examines passenger and freight separation using a rooftop transfer locker (RTL), two exchangeable cargo modules, and one car reassigned from an existing elevator group to cargo service. Each cargo trip selects itemized loading or module exchange and jointly determines active waiting, trip composition, and a rooftop-connected floor route. We formulate a continuous-time mixed-integer linear program and develop an event-driven evaluator, an independent small-instance enumerator, and an adaptive large neighborhood search. A paired discrete-event simulation compares RTL service with immediate and consolidated couriers. At passenger arrival rate 0.07 groups/s and target parcel movement share 50%, mean passenger waiting falls substantially under collective control and destination dispatch across 30 paired seeds. This passenger benefit is conditional on cargo operability, and the results identify a congestion-relief mechanism while showing that RTL capacity and transfer throughput delimit its implementable operating region.
+ High-rise buildings experience vertical congestion when passenger and parcel movements compete for limited elevator capacity. This study investigates a rooftop drone handoff and cargo-elevator scheme in which parcels are transferred at a rooftop interface and delivered by one car dedicated to cargo service, while the remaining cars serve ordinary passengers. Since external UAV operations are treated as exogenous with given rooftop readiness times, the optimization and simulation focus on the in-building service after handoff. We formulate cargo batching and sequencing as a mixed-integer linear program and develop an adaptive large neighborhood search for the tested instances. For any fixed ordered batch list under the adopted descending service policy, the earliest feasible loading schedule minimizes total completion time and provides the search with an exact timing evaluator. A paired discrete-event simulation compares the proposed scheme with individual courier to floor delivery under stylized up-peak conditions. Under high parcel demand, removing courier round trips reduces mean passenger waiting from 6.14 to 1.83 s under collective control, a 70.3% reduction on the tested grid, while satisfying the adopted parcel-service noninferiority screen. The resulting operating-region screen identifies the tested demand levels and elevator policies under which passenger congestion relief and the parcel-service criterion are achieved jointly.
 
 {% include figure.liquid loading="eager" path="assets/img/vertical_transportation_illustration.jpg" class="img-fluid rounded z-depth-1" %}
 
 ## Resources
 
-- SSRN preprint: [Drone-elevator coordination: Passenger-freight separation for vertical congestion management in high-rise buildings](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7119618)
+- SSRN preprint: [Passenger and freight separation for vertical congestion management in high-rise buildings: A rooftop drone handoff and cargo-elevator scheme](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7119618)
 - Related presentation: [Talks](/talks/)
