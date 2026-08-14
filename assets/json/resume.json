@@ -36,7 +36,7 @@
       "url": "https://www.buaa.edu.cn/",
       "studyType": "Ph.D. Candidate",
       "startDate": "2023-09-01",
-      "area": "Thesis topic: Design and Operational Optimization of Reservation Schemes for Congestion Management",
+      "area": "Thesis topic: Design and Operational Optimization of Reservation Schemes for Congestion Management: Considering noncompliance",
       "endDate": "",
       "score": "",
       "courses": []
@@ -187,11 +187,10 @@
       "name": "Transportation",
       "icon": "fa-solid fa-road",
       "keywords": [
-        "Travel Demand Management (TDM)",
-        "Transport Network Analysis",
         "Pedestrian Dynamics",
-        "Optimization in Transportation",
-        "Congestion Management"
+        "Travel Demand Management (TDM) strategy",
+        "Optimization in Transportation Field",
+        "Low-altitude urban logistics"
       ]
     }
   ],
@@ -204,6 +203,11 @@
     {
       "language": "English",
       "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "German",
+      "fluency": "Very very beginner",
       "icon": ""
     }
   ]
