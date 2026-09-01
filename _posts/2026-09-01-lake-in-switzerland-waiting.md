@@ -20,6 +20,6 @@ toc:
 
 我抬头看了看广场旁边的小山坡，上边是一座啤酒厂。那个工厂有三层楼高，每层有十二个窗户。广场上，一对年轻夫妇带着孩子玩跷跷板，昏黄的灯光不足以让我看清他们的样貌，但是笑声，我想一定穿过了工厂的十二扇窗户，进入了每一朵绽放着甜香的啤酒花的梦中。
 
-![DSC02565-1](https://thinkpad-sqh-1309385371.cos.ap-beijing.myqcloud.com/pics/20260901135132007.jpg)
+{% include figure.liquid loading="eager" path="https://thinkpad-sqh-1309385371.cos.ap-beijing.myqcloud.com/pics/20260901135132007.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 
-![DSC02546-1](https://thinkpad-sqh-1309385371.cos.ap-beijing.myqcloud.com/pics/20260901135147845.jpg)
+{% include figure.liquid loading="eager" path="https://thinkpad-sqh-1309385371.cos.ap-beijing.myqcloud.com/pics/20260901135147845.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
