@@ -21,6 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
+future: true # publish posts with future dates
 
 # -----------------------------------------------------------------------------
 # Theme
@@ -140,8 +141,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Qi-Hang Sun # blog_name will be displayed in your blog page
-blog_description: Ph.D. Candidate at Beihang University — Transportation Research
+blog_name: XZhoou's Blog
+blog_description: Do not go gentle into that good night
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -300,18 +301,15 @@ jekyll-minifier:
 # -----------------------------------------------------------------------------
 
 jekyll-archives:
-  enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
+  enabled: [year, categories] # enables year and category archives
   layouts:
     year: archive-year
-    tag: archive-tag
     category: archive-category
   permalinks:
     year: "/blog/:year/"
-    tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["Research", "Notes", "Life", "Thoughts", "Optimization", "Reading"] # these tags will be displayed on the front page of your blog
-display_categories: ["Research", "Notes", "Life"] # these categories will be displayed on the front page of your blog
+display_categories: ["Research", "Notes", "Life"]
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar

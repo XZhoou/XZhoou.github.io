@@ -2,8 +2,7 @@
 layout: post
 title: "湖水在等待什么"
 date: 2026-09-01 13:42:00
-description: "随笔"
-tags: [Life, Thoughts]
+description: "关于等待与选择"
 categories: [Life]
 giscus_comments: false
 related_posts: true
