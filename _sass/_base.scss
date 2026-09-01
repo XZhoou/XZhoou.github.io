@@ -899,6 +899,27 @@ html.transition *:after {
       }
     }
   }
+
+  .post-content,
+  #markdown-content {
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 4px;
+    }
+
+    figure {
+      margin: 1.5rem auto;
+      text-align: center;
+
+      img {
+        max-width: 100%;
+        height: auto;
+      }
+    }
+  }
 }
 
 progress {
