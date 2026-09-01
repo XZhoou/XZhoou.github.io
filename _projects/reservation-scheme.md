@@ -9,7 +9,7 @@ category: research
 
 ## Reservation scheme for congestion management during morning commute: Considering noncompliance
 
-*Sun, Qi-Hang and Guo, Ren-Yong*, **Transportation Research Part C: Emerging Technologies**, 2026 (In press).
+*Sun, Qi-Hang and Guo, Ren-Yong*, **Transportation Research Part C: Emerging Technologies**, 2026 .
 
 This study investigates the design of reservation schemes for morning-commute congestion management when commuters may not comply with their reserved time intervals. We characterize the equilibrium under noncompliance and propose scheme designs that restore efficiency.
 
@@ -24,4 +24,5 @@ This study investigates the design of reservation schemes for morning-commute co
 ## Resources
 
 - SSRN preprint: [Reservation scheme for congestion management during morning commute: Considering noncompliance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6471165)
+- TR-Part C: [Reservation scheme for congestion management during morning commute: Considering noncompliance](https://www.sciencedirect.com/science/article/abs/pii/S0968090X26004328)
 - Related presentation: [Talks](/talks/)
