@@ -6,7 +6,7 @@ subtitle: Ph.D. Candidate @ Beihang University
 
 profile:
   align: right
-  image: Profile photo.jpg
+  image: Profile_photo.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>Beijing, China</p>
