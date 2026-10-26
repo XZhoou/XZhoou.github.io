@@ -26,9 +26,9 @@ layout: default
       rounded' %}
           {% endif %}
           {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px)
-      30vw, 95vw"{% endcapture %}
+      30vw, calc(100vw - 30px){% endcapture %}
           {%
-            include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
+            include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=site.title
             cache_bust=true
           %}
         {% endif %}
@@ -39,6 +39,14 @@ layout: default
     {% endif %}
 
     <div class="clearfix">{{ content }}</div>
+
+    <!-- Selected papers -->
+    {% if page.selected_papers %}
+      <h2>
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected Publications</a>
+      </h2>
+      {% include selected_papers.liquid %}
+    {% endif %}
 
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
@@ -54,14 +62,6 @@ layout: default
         <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
       </h2>
       {% include latest_posts.liquid %}
-    {% endif %}
-
-    <!-- Selected papers -->
-    {% if page.selected_papers %}
-      <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected Publications</a>
-      </h2>
-      {% include selected_papers.liquid %}
     {% endif %}
 
     <!-- Social -->

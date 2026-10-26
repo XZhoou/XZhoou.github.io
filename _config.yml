@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Personal Website (Qi-Hang Sun) # the website title (if blank, full name will be used instead)
+title: Qi-Hang Sun # the website title (if blank, full name will be used instead)
 first_name: Qi-Hang
 middle_name: (XZhoou)
 last_name: Sun
 email: sunxzhoou@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Ph.D. Candidate at Beihang University, China.
+  Qi-Hang Sun, Ph.D. candidate at Beihang University. Research on reservation-based travel demand management, noncompliance, and congestion management.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -65,7 +65,7 @@ max_width: 930px
 # see https://schema.org/docs/faq.html for more information
 serve_og_meta: true # Include Open Graph meta tags in the HTML head
 serve_schema_org: true # Include Schema.org in the HTML head
-og_image: /assets/img/Profile photo.jpg # The site-wide (default for all links) Open Graph preview image
+og_image: /assets/img/Profile_photo.jpg # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Social integration

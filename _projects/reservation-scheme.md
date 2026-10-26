@@ -9,20 +9,30 @@ category: research
 
 ## Reservation scheme for congestion management during morning commute: Considering noncompliance
 
-*Sun, Qi-Hang and Guo, Ren-Yong*, **Transportation Research Part C: Emerging Technologies**, 2026 .
+*Sun, Qi-Hang and Guo, Ren-Yong*, **Transportation Research Part C: Emerging Technologies**, 2026.
 
-This study investigates the design of reservation schemes for morning-commute congestion management when commuters may not comply with their reserved time intervals. We characterize the equilibrium under noncompliance and propose scheme designs that restore efficiency.
+### Research problem
 
-{% include figure.liquid loading="eager" path="assets/img/reservation_fig1.png" class="img-fluid rounded z-depth-1" %}
+This study investigates the design of reservation schemes for morning-commute congestion management when commuters may not comply with their reserved time intervals.
 
-{% include figure.liquid loading="eager" path="assets/img/reservation_fig2.png" class="img-fluid rounded z-depth-1" %}
+### Approach
 
-{% include figure.liquid loading="eager" path="assets/img/reservation_fig6.png" class="img-fluid rounded z-depth-1" %}
+The scheme divides the morning peak into shoulder-central-shoulder intervals. We analyze departure time equilibrium within each interval, rescheduling equilibrium across intervals, and long-term equilibrium across days.
 
-{% include figure.liquid loading="eager" path="assets/img/reservation_fig7.png" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/reservation_fig1.png" class="img-fluid rounded z-depth-1" caption="Shoulder-central-shoulder division of the morning peak." alt="Timeline with an early shoulder interval, a central interval, and a late shoulder interval." %}
 
-## Resources
+{% include figure.liquid loading="eager" path="assets/img/reservation_fig2.png" class="img-fluid rounded z-depth-1" caption="Departure time, rescheduling, and long-term equilibria at three decision levels." alt="Three linked decision levels: departure time choice within intervals, alternative interval choice across intervals, and quota usage choice across days." %}
+
+### Findings
+
+We characterize the equilibrium under noncompliance and propose scheme designs that restore efficiency.
+
+{% include figure.liquid loading="eager" path="assets/img/reservation_fig6.png" class="img-fluid rounded z-depth-1" caption="Rescheduling equilibrium types across the illustrated parameter settings." alt="Parameter map with regions for Types I, IIa, IIb, IIIa, and IIIb and their interval-cost rankings." %}
+
+{% include figure.liquid loading="eager" path="assets/img/reservation_fig7.png" class="img-fluid rounded z-depth-1" caption="Cost contours and the optimal reservation-period start time." alt="Contour plot of TC_n against t_s and p_w, with the optimal t_s curve and the central-peak proportion." %}
+
+### Resources
 
 - SSRN preprint: [Reservation scheme for congestion management during morning commute: Considering noncompliance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6471165)
 - TR-Part C: [Reservation scheme for congestion management during morning commute: Considering noncompliance](https://www.sciencedirect.com/science/article/abs/pii/S0968090X26004328)
-- Related presentation: [Talks](/talks/)
+- Related presentation: [Future Cities Lab seminar]({% link _talks/FCL2026_Online.md %})
